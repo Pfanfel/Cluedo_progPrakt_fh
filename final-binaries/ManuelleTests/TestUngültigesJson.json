@@ -1,0 +1,1108 @@
+{
+  "players": [
+    {
+     "Fräulein Ming",
+      "iq": "normal",
+      "room": "Flur",
+      "position": {
+        "x": 7,
+        "y": 22
+      },
+      "requested": false,
+      "cards": {
+        "persons": [
+          "Oberst von Gatow"
+        ],
+        "rooms": [
+          "Billardzimmer",
+          "Musikzimmer"
+        ],
+        "weapons": [
+          "Seil"
+        ]
+      }
+    },
+    {
+      "name": "Oberst von Gatow",
+      "iq": "dumm",
+      "room": "Flur",
+      "position": {
+        "x": 0,
+        "y": 17
+      },
+      "requested": false,
+      "cards": {
+        "persons": [
+          "Direktor Grün",
+          "Frau Weiß"
+        ],
+        "rooms": [
+          "Speisezimmer"
+        ],
+        "weapons": [
+          "Dolch"
+        ]
+      }
+    },
+    {
+      "name": "Frau Weiß",
+      "iq": "dumm",
+      "room": "Veranda",
+      "position": {
+        "x": 3,
+        "y": 22
+      },
+      "requested": false,
+      "cards": {
+        "persons": [
+          "Fräulein Ming"
+        ],
+        "rooms": [
+          "Arbeitszimmer",
+          "Salon",
+          "Eingangshalle"
+        ],
+        "weapons": []
+      }
+    },
+    {
+      "name": "Direktor Grün",
+      "iq": "dumm",
+      "room": "Flur",
+      "position": {
+        "x": 3,
+        "y": 18
+      },
+      "requested": false,
+      "cards": {
+        "persons": [
+          "Baronin von Porz"
+        ],
+        "rooms": [
+          "Bibliothek"
+        ],
+        "weapons": [
+          "Heizungsrohr"
+        ]
+      }
+    },
+    {
+      "name": "Baronin von Porz",
+      "iq": "dumm",
+      "room": "Flur",
+      "position": {
+        "x": 2,
+        "y": 16
+      },
+      "requested": false,
+      "cards": {
+        "persons": [],
+        "rooms": [
+          "Küche"
+        ],
+        "weapons": [
+          "Pistole",
+          "Rohrzange"
+        ]
+      }
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Pistole",
+      "room": "Veranda"
+    },
+    {
+      "name": "Dolch",
+      "room": "Küche"
+    },
+    {
+      "name": "Seil",
+      "room": "Bibliothek"
+    },
+    {
+      "name": "Kerzenleuchter",
+      "room": "Arbeitszimmer"
+    },
+    {
+      "name": "Rohrzange",
+      "room": "Veranda"
+    },
+    {
+      "name": "Heizungsrohr",
+      "room": "Musikzimmer"
+    }
+  ],
+  "notes": [
+    [
+      {
+        "name": "Fräulein Ming",
+        "memo": {
+          "persons": [
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "eigene Karte",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Oberst von Gatow",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Frau Weiß",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Direktor Grün",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Baronin von Porz",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Professor Bloom",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "name": "Fräulein Ming",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Oberst von Gatow",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "eigene Karte",
+            "eigene Karte",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Frau Weiß",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Direktor Grün",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Baronin von Porz",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Professor Bloom",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "name": "Fräulein Ming",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "hat nicht"
+          ],
+          "rooms": [
+            "-",
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Oberst von Gatow",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "hat nicht"
+          ],
+          "rooms": [
+            "-",
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Frau Weiß",
+        "memo": {
+          "persons": [
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "eigene Karte"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Direktor Grün",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "hat nicht"
+          ],
+          "rooms": [
+            "-",
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "hat nicht",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Baronin von Porz",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "gesehen",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Professor Bloom",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "name": "Fräulein Ming",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Oberst von Gatow",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Frau Weiß",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Direktor Grün",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "eigene Karte"
+          ]
+        }
+      },
+      {
+        "name": "Baronin von Porz",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Professor Bloom",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "name": "Fräulein Ming",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Oberst von Gatow",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Frau Weiß",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Direktor Grün",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Baronin von Porz",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "eigene Karte",
+            "-",
+            "-",
+            "-",
+            "eigene Karte",
+            "-"
+          ]
+        }
+      },
+      {
+        "name": "Professor Bloom",
+        "memo": {
+          "persons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "rooms": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ],
+          "weapons": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      }
+    ]
+  ]
+}

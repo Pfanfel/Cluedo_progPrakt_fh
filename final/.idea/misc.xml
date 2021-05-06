@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectKey">
+    <option name="state" value="project://e79810c8-c5c8-43b1-b19c-90c1f4095425" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://stud.fh-wedel.de/repos/uebungen/ppws20/ppws20_47/branches" />
+                  <option value="https://stud.fh-wedel.de/repos/uebungen/ppws20/ppws20_47/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://stud.fh-wedel.de/repos/uebungen/ppws20/ppws20_47/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

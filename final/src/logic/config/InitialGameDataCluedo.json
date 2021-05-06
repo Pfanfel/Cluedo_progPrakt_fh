@@ -1,0 +1,144 @@
+{
+  "players": [
+    {
+      "name": "Fräulein Ming",
+      "position": {"x":  7, "y": 24}
+    },
+    {"name" : "Oberst von Gatow",
+      "position": {"x":  0, "y": 17}
+    },
+    {
+      "name": "Frau Weiß",
+      "position": {"x":  9, "y":  0}
+    },
+    {
+      "name": "Direktor Grün",
+      "position": {"x": 14, "y":  0}
+    },
+    {
+      "name": "Baronin von Porz",
+      "position": {"x": 23, "y":  6}
+    },
+    {
+      "name": "Professor Bloom",
+      "position": {"x": 23, "y": 19}
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Eingangshalle",
+      "position": {"x": 12, "y": 22},
+      "doors": [
+        {"x": 11, "y": 17},
+        {"x": 12, "y": 17},
+        {"x": 15, "y": 20}
+      ]
+    },
+    {
+      "name": "Veranda",
+      "position": {"x": 3, "y": 22},
+      "doors": [
+        {"x": 6, "y": 18}
+      ],
+      "secretCorridor" : "Musikzimmer"
+    },
+    {
+      "name": "Speisezimmer",
+      "position": {"x": 3, "y": 12},
+      "doors": [
+        {"x": 8, "y": 12},
+        {"x": 6, "y": 16}
+      ]
+    },
+    {
+      "name": "Küche",
+      "position": {"x": 3, "y": 4},
+      "doors": [
+        {"x": 4, "y": 7}
+      ],
+      "secretCorridor" : "Arbeitszimmer"
+    },
+    {
+      "name": "Salon",
+      "position": {"x": 12, "y": 4},
+      "doors": [
+        {"x":  7, "y":  5},
+        {"x":  9, "y":  8},
+        {"x": 14, "y":  8},
+        {"x": 16, "y":  5}
+      ]
+    },
+    {
+      "name": "Musikzimmer",
+      "position": {"x": 20, "y": 3},
+      "doors": [
+        {"x": 18, "y":  5}
+      ],
+      "secretCorridor" : "Veranda"
+    },
+    {
+      "name": "Billardzimmer",
+      "position": {"x": 20, "y": 10},
+      "doors": [
+        {"x": 17, "y":  9},
+        {"x": 22, "y": 13}
+      ]
+    },
+    {
+      "name": "Bibliothek",
+      "position": {"x": 20, "y": 16},
+      "doors": [
+        {"x": 20, "y": 13},
+        {"x": 16, "y": 16}
+      ]
+    },
+    {
+      "name": "Arbeitszimmer",
+      "position": {"x": 20, "y": 22},
+      "doors": [
+        {"x": 17, "y": 20}
+      ],
+      "secretCorridor" : "Küche"
+    }
+  ],
+
+  "weapons": [
+    "Pistole",
+    "Dolch",
+    "Seil",
+    "Kerzenleuchter",
+    "Rohrzange",
+    "Heizungsrohr"
+  ],
+  "gameField":{
+    "gameFieldWidth" : 24,
+    "gameFieldHeight" : 25,
+    "gameField" : [
+      "######### 4444 #########" ,
+      "333333#   4444   #555555" ,
+      "333333  44444444  555555" ,
+      "333333  44444444  555555" ,
+      "333333  44444444  555555" ,
+      "333333  44444444   5555#" ,
+      "#33333  44444444        " ,
+      "        44444444       #" ,
+      "#                 666666" ,
+      "22222             666666" ,
+      "22222222  #####   666666" ,
+      "22222222  #####   666666" ,
+      "22222222  #####   666666" ,
+      "22222222  #####        #" ,
+      "22222222  #####   77777#" ,
+      "22222222  #####  7777777" ,
+      "#         #####  7777777" ,
+      "                 7777777" ,
+      "#        000000   77777#" ,
+      "1111111  000000         " ,
+      "1111111  000000        #" ,
+      "1111111  000000  8888888" ,
+      "1111111  000000  8888888" ,
+      "1111111  000000  8888888" ,
+      "111111# #000000# #888888"
+    ]
+  }
+}
